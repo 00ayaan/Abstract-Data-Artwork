@@ -1,0 +1,9 @@
+------------------------------------------------------------------------------------------------------
+What I prompted: why am I getting this error and how should I fix it? Along with a photo of an error 
+with my drawMusic method.
+
+------------------------------------------------------------------------------------------------------
+What Solution I recieved: It gave me a solution to write an if statement to stop the loop if the index
+was too high.
+
+------------------------------------------------------------------------------------------------------
